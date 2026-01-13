@@ -1,0 +1,6 @@
+[analyzers]
+todo_checker = true
+long_line_checker = true
+god_class_checker = true
+max_line_length = 120
+max_class_lines = 500
