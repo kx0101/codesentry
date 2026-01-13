@@ -1,3 +1,4 @@
+```bash
 CodeSentry - Static Analysis Tool
 ──────────────────────────────────────────────────
 Found 1 .cs files
@@ -31,3 +32,4 @@ Results:
 
 ──────────────────────────────────────────────────
  10 issues in 3 files
+```
